@@ -1,5 +1,3 @@
-
-
 package com.back.domain.post.post.document;
 
 import org.springframework.data.annotation.*;
